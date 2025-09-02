@@ -23,7 +23,7 @@ Deduce preferences from clients, work on limited information, and take risks to 
 ## Credits
 
 Team submission to the 2025.2 Brackeys Game Jam with theme of Risk it For the Biscuit, made in 7 days. Contributed by Paulean, Duck Tran, Bryson, and Gabu.
-- [**Yox**](https://paulean-dev.itch.io/) - Programmer & Game Designer
-- [**Duck Tran**](https://ducktran.itch.io/) - 2D Artist
+- [**Yox**](https://paulean-dev.itch.io/) - Lead Programmer & Game Designer
+- [**Duck Tran**](https://ducktran.itch.io/) - 2D Artist & Assistant Programmer
 - [**Bryson**](https://housefiresuoh.itch.io/) - SFX Composer
 - [**Gabu**](https://linktr.ee/gabumusic) - Composer/Musician
