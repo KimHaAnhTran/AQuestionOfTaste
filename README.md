@@ -1,4 +1,4 @@
-# BrackeysJ
+# A Question of Taste
 
 CLICK TO PLAY ON WEB:
 https://paulean-dev.itch.io/aquestionoftaste
