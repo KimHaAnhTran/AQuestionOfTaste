@@ -10,7 +10,7 @@ https://itch.io/jam/brackeys-14/rate/3852071
 # The Game
 ![](https://img.itch.zone/aW1hZ2UvMzg1MjA3MS8yMzAwOTA4Ni5wbmc=/original/9oyAXZ.png)
 
-A point and click baking game where you don't have enough ingredients! No chocolate for chocolate chips, no strawbery for strawberry biscuits. It's now your job to improvise: honey, ketchup, or wasabi. Questionable ingredients with questionable risks. <br>
+**A Question of Taste** is a 2D point-and-click baking game simulator where you don't have enough ingredients! No chocolate for chocolate chips, no strawbery for strawberry biscuits. It's now your job to improvise: honey, ketchup, or wasabi. Questionable ingredients with questionable risks. <br>
 
 Deduce preferences from clients, work on limited information, and take risks to bake the right cookie with the right taste. <br>
 
@@ -24,7 +24,7 @@ Deduce preferences from clients, work on limited information, and take risks to 
 
 ## Credits
 
-Team submission to the 2025.2 Brackeys Game Jam with theme of Risk it For the Biscuit, made in 7 days. Contributed by Paulean, Duck Tran, Bryson, and Gabu.
+Team submission to the 2025.2 Brackeys Game Jam with theme of **Risk it For the Biscuit**, made in 7 days. Contributed by Paulean, Duck Tran, Bryson, and Gabu.
 - [**Yox**](https://paulean-dev.itch.io/) - Lead Programmer & Game Designer
 - [**Duck Tran**](https://ducktran.itch.io/) - 2D Artist & Assistant Programmer
 - [**Bryson**](https://housefiresuoh.itch.io/) - SFX Composer
